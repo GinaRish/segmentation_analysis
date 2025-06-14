@@ -110,4 +110,3 @@ if __name__ == "__main__":
             print(f"{row['tumor']}: Dice Score = {row['dice_score']}")
         else:
             print(f"{row['tumor']}: {row['note']}")
-# comment 
